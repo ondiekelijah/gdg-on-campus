@@ -3,7 +3,7 @@
 ## Prerequisites
 
 ### Required Software
-- Python 3.x (Download from [python.org](https://python.org))
+- Python 3.x (Download from [python.org](https://python.org](https://www.python.org/downloads/)))
 - pip (Python package installer, comes with Python)
 - Code editor of your choice (VS Code recommended)
 
