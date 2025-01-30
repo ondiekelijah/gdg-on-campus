@@ -6,6 +6,7 @@
 - Python 3.x (Download from [python.org](https://python.org](https://www.python.org/downloads/)))
 - pip (Python package installer, comes with Python)
 - Code editor of your choice (VS Code recommended)
+- Git installed and set up (Optional) (Download from [Git](https://python.org](https://www.python.org/downloads/](https://git-scm.com/downloads))))
 
 ## Setting Up Your Development Environment
 
