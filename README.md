@@ -8,13 +8,13 @@
 - Code editor of your choice (VS Code recommended)
 
 ## Setting Up Your Development Environment
-First, create a dedicated folder for your Dino Game project:
 
-### Create a new folder
- ```bash
- mkdir dino-game-project
- ```
+Navigate to your projects directory
 
+### Clone the Starter Repository
+```bash
+git clone https://github.com/ondiekelijah/gdg-on-campus.git dino-game-project
+```
 ### Navigate into the folder
 
 ```bash
