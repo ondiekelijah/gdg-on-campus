@@ -72,3 +72,9 @@ pip freeze > requirements.txt
 ```bash
 # Make sure your virtual environment is activated
 python main.py
+```
+
+# Reference
+
+- https://github.com/steeeved/Dino-Game
+
